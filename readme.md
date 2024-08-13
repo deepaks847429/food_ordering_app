@@ -1,0 +1,4 @@
+->CDN-content delivery network and add cdn at the end of the project.
+-> most costly thing in frontend is of manupulaTING  dom and react does in  very optimize way.
+-> order of our file matters and they are always in the sequence.
+->library(it can be used anywhere in footer, header it work independently) vs framework
