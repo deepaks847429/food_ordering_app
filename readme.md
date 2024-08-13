@@ -40,4 +40,14 @@ Transitive dependncy-> one dependency dependent on other dependency is known as 
 -> browserList
 
 
+# component
+-> class based component
+-> functional based component
+
+# props
+- normal arguments to a function. it is a object.
+-config driven ui(data can be different for different place for mumabai, delhi, pune).
+
+
+
 

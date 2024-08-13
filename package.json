@@ -2,8 +2,10 @@
   "name": "food_ordering_app",
   "version": "1.0.0",
   "description": "this is food_ordering app by deepak kumar",
-  "main": "App.js",
+  
   "scripts": {
+    "start":"parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Deepak kumar",
