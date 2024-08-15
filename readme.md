@@ -48,6 +48,63 @@ Transitive dependncy-> one dependency dependent on other dependency is known as 
 - normal arguments to a function. it is a object.
 -config driven ui(data can be different for different place for mumabai, delhi, pune).
 
+# commented-part
+// // // const parent= React.createElement("div",
+// // //    {id:"parent"},
+// // //     React.createElement("div", {id:"child"},
+// // //        [React.createElement("h1", {}, "I am a h1 tag"), React.createElement("h2", {}, "I am a h2 tag")]));
+// // //        console.log(parent);
+// //        const heading=React.createElement("h1", {id:"heading"}, "hello world from react inside it.")
+// //        console.log(heading);  // react element(object);
+// //          const root1= ReactDOM.createRoot(document.getElementById("root"));
+// //          root1.render(heading);
+
+// import React from "react";
+// import ReactDOM from "react-dom/client"
+
+// // ract element
+
+// const heading = React.createElement("h1", {id: "heading"}, "I am deepak kumar");
+
+// // react component
+// const HeadingComponent =()=>(
+  
+//    <h1> Namaste react functional component </h1>
+   
+  
+// )
+  
+// const jsxHeading=<h1 id="heading"> Nmaste using React using JSX</h1>;
+// const root= ReactDOM. createRoot(document.getElementById("root"));
+// root.render(<HeadingComponent/>);
+
+
+// Headers
+// logo 
+// nav items 
+
+// body 
+// - search 
+// - restaurent Container
+// -restaurantcard
+//-image
+//-name
+//-star rating, cusines, delivery time
+// footer
+// -copyright
+// -links
+// -address
+// contact
+
+
+import and exports
+
+# react hooks
+Normal js utility functions.
+- two very important hooks
+-useState() - superpowerful state variables
+-useEffect()
+- when a state variable changes react re-renders automatically.
 
 
 
